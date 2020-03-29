@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Amphenol_Micro_USB)(type KiCad)(uri "$(KIPRJMOD)/Amphenol_Micro_USB.pretty")(options "")(descr ""))
+  (lib (name Harwin_SMD_Header_6pos)(type KiCad)(uri "$(KIPRJMOD)/Harwin_SMD_Header_6pos.pretty")(options "")(descr ""))
+  (lib (name Harwin_3pos_header)(type KiCad)(uri "$(KIPRJMOD)/Harwin_3pos_header.pretty")(options "")(descr ""))
+)
